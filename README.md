@@ -1,6 +1,6 @@
 # gold_recovery
-Исследование технологического процесса очистки золота
+Study of the technological process of gold floatation
 
-Строитстся модель машинного обучения для промышленной компании, разрабатывающая решения для эффективной работы промышленных предприятий. 
-Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки. 
-Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
+A machine learning model is being built for an industrial company that develops solutions for the efficient operation of industrial enterprises.
+The model should predict the gold recovery rate from gold ore based on data with mining and refining parameters.
+The model will help optimize production so as not to launch an enterprise with unprofitable characteristics.
